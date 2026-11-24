@@ -3,7 +3,6 @@
 
 Responsive landing page for **Mizu**, a fictional self-watering planter. Built for Task 1 of the Arithmatrix AVIP 2026 Web Development track.
 
-**Live demo:** coruscating-sprinkles-24bda0.netlify.app
 
 ## Features
 - Hero section, three product features, and a pre-order call-to-action
